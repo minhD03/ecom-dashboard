@@ -6,7 +6,7 @@
 - [2) Data Model](#2-data-model)
 - [3) Dashboard Pages](#3-dashboard-pages)
 - [4) Key DAX & Analytical Techniques](#4-key-dax--analytical-techniques)
-- [5) Insights & Recommendations](#5-business-insights--recommendations)
+- [5) Insights & Recommendations](#5-insights--recommendations)
 - [6) Conclusions](#6-conclusions)
 
 ## 1) Introduction: 
@@ -48,9 +48,12 @@ of measures described in Section 4:
 
 
 ## 2) Data Model: 
-![alt text](https://github.com/minhD03/ecom-dashboard/blob/2f91cecbfadbf4b0dab8eea70f1cbd6e4d0006cf/images/data-model.jpg)
+![alt text](https://github.com/minhD03/ecom-dashboard/blob/06a5510854000a8e79968de8bd88a8458560efc6/images/data-model.jpg)
 
 ## 3) Dashboard Pages:
+![alt text](https://github.com/minhD03/ecom-dashboard/blob/06a5510854000a8e79968de8bd88a8458560efc6/images/dashboard-1.jpg)
+![alt text](https://github.com/minhD03/ecom-dashboard/blob/06a5510854000a8e79968de8bd88a8458560efc6/images/dashboard-2.jpg)
+![alt text](https://github.com/minhD03/ecom-dashboard/blob/06a5510854000a8e79968de8bd88a8458560efc6/images/dashboard-3.jpg)
 
 ## 4) Key DAX & Analytical Techniques:
 
